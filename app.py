@@ -11,7 +11,7 @@ from src.gen_ai import get_ai_response
 st.set_page_config(page_title="OncoDiabetes AI", page_icon="🧬", layout="wide", initial_sidebar_state="collapsed")
 
 # BURAYA API ŞİFRENİ YAZ (Artık RAG da şifreyi buradan alacak)
-MY_API_KEY = "AIzaSyD_z4-GXkmM6mls9HcKw2l3F4kOL2CJZwQ"
+MY_API_KEY = "API_SIFRE"
 
 # --- PREMIUM CSS ---
 st.markdown("""
